@@ -1,0 +1,16 @@
+{
+  "name": "electron-rpc",
+  "version": "1.0.0",
+  "description": "A simple Electron UI for Rich Presence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lee",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.12",
+    "discord.js": "^11.3.2",
+    "electron": "^2.0.4"
+  }
+}
